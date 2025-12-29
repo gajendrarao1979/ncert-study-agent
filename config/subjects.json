@@ -1,0 +1,220 @@
+{
+  "grade_10": {
+    "subjects": {
+      "Mathematics": {
+        "ncert_code": "jemh1",
+        "book_name": "Mathematics",
+        "base_url": "https://ncert.nic.in/textbook/pdf/jemh1{:02d}.pdf",
+        "total_chapters": 15,
+        "chapters": {
+          "Real Numbers": 1,
+          "Polynomials": 2,
+          "Pair of Linear Equations in Two Variables": 3,
+          "Quadratic Equations": 4,
+          "Arithmetic Progressions": 5,
+          "Triangles": 6,
+          "Coordinate Geometry": 7,
+          "Introduction to Trigonometry": 8,
+          "Some Applications of Trigonometry": 9,
+          "Circles": 10,
+          "Constructions": 11,
+          "Areas Related to Circles": 12,
+          "Surface Areas and Volumes": 13,
+          "Statistics": 14,
+          "Probability": 15
+        },
+        "web_link": "https://ncert.nic.in/textbook.php?jemh1=1-15"
+      },
+      "Science": {
+        "ncert_code": "jesc1",
+        "book_name": "Science",
+        "base_url": "https://ncert.nic.in/textbook/pdf/jesc1{:02d}.pdf",
+        "total_chapters": 16,
+        "chapters": {
+          "Chemical Reactions and Equations": 1,
+          "Acids, Bases and Salts": 2,
+          "Metals and Non-metals": 3,
+          "Carbon and its Compounds": 4,
+          "Life Processes": 5,
+          "Control and Coordination": 6,
+          "How do Organisms Reproduce?": 7,
+          "Heredity and Evolution": 8,
+          "Light - Reflection and Refraction": 9,
+          "Human Eye and Colourful World": 10,
+          "Electricity": 11,
+          "Magnetic Effects of Electric Current": 12,
+          "Sources of Energy": 13,
+          "Our Environment": 14,
+          "Sustainable Management of Natural Resources": 15
+        },
+        "web_link": "https://ncert.nic.in/textbook.php?jesc1=0-15"
+      },
+      "History": {
+        "ncert_code": "jess3",
+        "book_name": "India and the Contemporary World - II",
+        "base_url": "https://ncert.nic.in/textbook/pdf/jess3{:02d}.pdf",
+        "total_chapters": 5,
+        "chapters": {
+          "The Rise of Nationalism in Europe": 1,
+          "Nationalism in India": 2,
+          "The Making of a Global World": 3,
+          "The Age of Industrialisation": 4,
+          "Print Culture and the Modern World": 5
+        },
+        "web_link": "https://ncert.nic.in/textbook.php?jess3=0-5"
+      },
+      "Geography": {
+        "ncert_code": "jess1",
+        "book_name": "Contemporary India - II",
+        "base_url": "https://ncert.nic.in/textbook/pdf/jess1{:02d}.pdf",
+        "total_chapters": 7,
+        "chapters": {
+          "Resources and Development": 1,
+          "Forest and Wildlife Resources": 2,
+          "Water Resources": 3,
+          "Agriculture": 4,
+          "Minerals and Energy Resources": 5,
+          "Manufacturing Industries": 6,
+          "Lifelines of National Economy": 7
+        },
+        "web_link": "https://ncert.nic.in/textbook.php?jess1=0-7"
+      },
+      "Political_Science": {
+        "ncert_code": "jess4",
+        "book_name": "Democratic Politics - II",
+        "base_url": "https://ncert.nic.in/textbook/pdf/jess4{:02d}.pdf",
+        "total_chapters": 8,
+        "chapters": {
+          "Power Sharing": 1,
+          "Federalism": 2,
+          "Gender, Religion and Caste": 3,
+          "Political Parties": 4,
+          "Outcomes of Democracy": 5
+        },
+        "web_link": "https://ncert.nic.in/textbook.php?jess4=0-5"
+      },
+      "Economics": {
+        "ncert_code": "jess2",
+        "book_name": "Understanding Economic Development",
+        "base_url": "https://ncert.nic.in/textbook/pdf/jess2{:02d}.pdf",
+        "total_chapters": 5,
+        "chapters": {
+          "Development": 1,
+          "Sectors of the Indian Economy": 2,
+          "Money and Credit": 3,
+          "Globalisation and the Indian Economy": 4
+        },
+        "web_link": "https://ncert.nic.in/textbook.php?jess2=0-4"
+      },
+      "English_First_Flight": {
+        "ncert_code": "ieen1",
+        "book_name": "First Flight - Textbook in English for Class X",
+        "base_url": "https://ncert.nic.in/textbook/pdf/ieen1{:02d}.pdf",
+        "total_chapters": 22,
+        "chapters": {
+          "A Letter to God": 1,
+          "Nelson Mandela: Long Walk to Freedom": 2,
+          "Two Stories about Flying": 3,
+          "From the Diary of Anne Frank": 4,
+          "The Hundred Dresses - I": 5,
+          "The Hundred Dresses - II": 6,
+          "Glimpses of India": 7,
+          "Mijbil the Otter": 8,
+          "Madam Rides the Bus": 9,
+          "The Sermon at Benares": 10,
+          "The Proposal": 11,
+          "Dust of Snow": 12,
+          "Fire and Ice": 13,
+          "A Tiger in the Zoo": 14,
+          "How to Tell Wild Animals": 15,
+          "The Ball Poem": 16,
+          "Amanda!": 17,
+          "Animals": 18,
+          "The Trees": 19,
+          "Fog": 20,
+          "The Tale of Custard the Dragon": 21,
+          "For Anne Gregory": 22
+        },
+        "note": "Chapters 1-11 are Prose, Chapters 12-22 are Poetry",
+        "web_link": "https://ncert.nic.in/textbook.php?ieen1=0-11"
+      },
+      "English_Footprints_Without_Feet": {
+        "ncert_code": "ieen2",
+        "book_name": "Footprints Without Feet - Supplementary Reader",
+        "base_url": "https://ncert.nic.in/textbook/pdf/ieen2{:02d}.pdf",
+        "total_chapters": 10,
+        "chapters": {
+          "A Triumph of Surgery": 1,
+          "The Thief's Story": 2,
+          "The Midnight Visitor": 3,
+          "A Question of Trust": 4,
+          "Footprints without Feet": 5,
+          "The Making of a Scientist": 6,
+          "The Necklace": 7,
+          "The Hack Driver": 8,
+          "Bholi": 9,
+          "The Book That Saved the Earth": 10
+        },
+        "web_link": "https://ncert.nic.in/textbook.php?ieen2=0-10"
+      },
+      "Hindi_Kshitij": {
+        "ncert_code": "jhhn1",
+        "book_name": "क्षितिज भाग 2 - हिंदी पाठ्यपुस्तक",
+        "base_url": "https://ncert.nic.in/textbook/pdf/jhhn1{:02d}.pdf",
+        "sections": {
+          "Gadya_Khand": {
+            "नेताजी का चश्मा - स्वयं प्रकाश": 1,
+            "बालगोबिन भगत - रामवृक्ष बेनीपुरी": 2,
+            "लखनवी अंदाज़ - यशपाल": 3,
+            "मानवीय करुणा की दिव्य चमक - सर्वेश्वर दयाल सक्सेना": 4,
+            "एक कहानी यह भी - मन्नू भंडारी": 5,
+            "साना-साना हाथ जोड़ि - मधु कांकरिया": 6,
+            "माता का अँचल - शिवपूजन सहाय": 7,
+            "जॉर्ज पंचम की नाक - कमलेश्वर": 8
+          },
+          "Kavya_Khand": {
+            "साखी - कबीरदास": 9,
+            "पद - सूरदास": 10,
+            "दोहे - बिहारी": 11,
+            "मनुष्यता - मैथिलीशरण गुप्त": 12,
+            "पर्वत प्रदेश में पावस - सुमित्रानंदन पंत": 13,
+            "मधुर-मधुर मेरे दीपक जल - महादेवी वर्मा": 14,
+            "तोप - वीरेन डंगवाल": 15,
+            "कर चले हम फ़िदा - कैफ़ी आज़मी": 16,
+            "आत्मत्राण - रवींद्रनाथ टैगोर": 17
+          }
+        },
+        "web_link": "https://ncert.nic.in/textbook.php?jhhn1=0-17"
+      },
+      "Hindi_Kritika": {
+        "ncert_code": "jhhn2",
+        "book_name": "कृतिका भाग 2",
+        "base_url": "https://ncert.nic.in/textbook/pdf/jhhn2{:02d}.pdf",
+        "total_chapters": 5,
+        "chapters": {
+          "माता का अँचल - शिवपूजन सहाय": 1,
+          "जॉर्ज पंचम की नाक - कमलेश्वर": 2,
+          "साना-साना हाथ जोड़ि - मधु कांकरिया": 3,
+          "एही ठैयाँ झुलनी हेरानी हो रामा - शिवप्रसाद मिश्र रुद्र": 4,
+          "मैं क्यों लिखता हूँ - अज्ञेय": 5
+        },
+        "web_link": "https://ncert.nic.in/textbook.php?jhhn2=0-5"
+      },
+      "Hindi_Sparsh": {
+        "ncert_code": "jhhn3",
+        "book_name": "स्पर्श भाग 2",
+        "base_url": "https://ncert.nic.in/textbook/pdf/jhhn3{:02d}.pdf",
+        "total_chapters": 17,
+        "note": "Contains both prose and poetry sections",
+        "web_link": "https://ncert.nic.in/textbook.php?jhhn3=0-17"
+      }
+    },
+    "total_subjects": 11,
+    "note": "Base URLs use Python-style formatting. Replace {:02d} with chapter number (01, 02, etc.). Example: jemh101.pdf for Chapter 1",
+    "example_urls": {
+      "Mathematics_Chapter_1":"https://ncert.nic.in/textbook/pdf/jemh101.pdf",
+      "Science_Chapter_1": "https://ncert.nic.in/textbook/pdf/jesc101.pdf",
+      "History_Chapter_1": "https://ncert.nic.in/textbook/pdf/iess101.pdf"
+    }
+  }
+}

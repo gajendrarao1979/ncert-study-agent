@@ -1,0 +1,38 @@
+
+# NCERT Notes Generator Configuration
+
+# Google Vertex AI Settings
+google:
+  project: "durable-footing-476913-u7"
+  location: "global"
+  model: "gemini-2.5-pro"
+  max_tokens: 65000
+  temperature: 0.7
+
+# PDF Processing Settings
+pdf:
+  extract_images: false
+  max_pages_per_chapter: 50
+  encoding: "utf-8"
+
+# Notes Generation Settings
+notes:
+  include_mnemonics: true
+  include_exam_tips: true
+  include_practice_questions: true
+  practice_questions_count: 7
+  difficulty_level: "high_school"
+
+# Output Settings
+output:
+  downloads_dir: 'ncert_notes_output/downloads'
+  notes_dir: 'ncert_notes_output/notes'
+  format: "pdf"
+  page_size: "A4"
+  font_size: 11
+  include_table_of_contents: true
+  add_timestamp: true
+
+# Grade Configuration
+grade: 10
+student_name: "Tanmay"
